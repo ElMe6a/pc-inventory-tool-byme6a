@@ -58,8 +58,8 @@ text
 ### Método 2: Clonar repositorio
 #powershell
 # Clonar el repositorio
-git clone https://github.com/tuusuario/pc-inventory-tool.git
-cd pc-inventory-tool
+git clone https://github.com/tuusuario/pc-inventory-tool-byme6a.git
+cd pc-inventory-tool-byme6a
 
 # Ejecutar el script
 .\Get-PCInventory.ps1
@@ -281,9 +281,9 @@ screenshots/         # Capturas de pantalla
 tests/               # Scripts de prueba
 4. Badges adicionales (opcional):
 markdown
-[![GitHub Stars](https://img.shields.io/github/stars/tuusuario/pc-inventory-tool?style=social)](https://github.com/tuusuario/pc-inventory-tool)
-[![Downloads](https://img.shields.io/github/downloads/tuusuario/pc-inventory-tool/total)](https://github.com/tuusuario/pc-inventory-tool/releases)
-[![Last Commit](https://img.shields.io/github/last-commit/tuusuario/pc-inventory-tool)](https://github.com/tuusuario/pc-inventory-tool/commits/main)
+[![GitHub Stars](https://img.shields.io/github/stars/tuusuario/pc-inventory-tool-byme6a?style=social)](https://github.com/tuusuario/pc-inventory-tool-byme6a)
+[![Downloads](https://img.shields.io/github/downloads/tuusuario/pc-inventory-tool-byme6a/total)](https://github.com/tuusuario/pc-inventory-tool-byme6a/releases)
+[![Last Commit](https://img.shields.io/github/last-commit/tuusuario/pc-inventory-tool-byme6a)](https://github.com/tuusuario/pc-inventory-tool-byme6a/commits/main)
 5. Commits iniciales sugeridos:
 bash
 # Inicializar repositorio
@@ -298,6 +298,6 @@ git add Get-PCInventory.ps1
 git commit -m "feat: :children_crossing: Add enhanced multi-monitor detection and professional reporting"
 
 # Agregar repositorio remoto
-git remote add origin https://github.com/tuusuario/pc-inventory-tool.git
+git remote add origin https://github.com/tuusuario/pc-inventory-tool-byme6a.git
 git branch -M main
 git push -u origin main
